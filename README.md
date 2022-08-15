@@ -24,20 +24,20 @@
 
 <hr>
 
-##cat<br>
+## cat<br>
 
-##cp<br>
+## cp<br>
 
-##pwd<br>
+## pwd<br>
 
-##ln<br>
+## ln<br>
 
-##mkdir<br>
+## mkdir<br>
 
-##stat<br>
+## stat<br>
 
-##ls<br>
+## ls<br>
 
-##chmod<br>
+## chmod<br>
 
-##exit<br>
+## exit<br>
