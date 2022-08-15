@@ -25,11 +25,19 @@
 <hr>
 
 ##cat<br>
+
 ##cp<br>
+
 ##pwd<br>
+
 ##ln<br>
+
 ##mkdir<br>
+
 ##stat<br>
+
 ##ls<br>
+
 ##chmod<br>
+
 ##exit<br>
