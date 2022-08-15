@@ -24,12 +24,12 @@
 
 <hr>
 
-##cat
-##cp
-##pwd
-##ln
-##mkdir
-##stat
-##ls
-##chmod
-##exit
+##cat<br>
+##cp<br>
+##pwd<br>
+##ln<br>
+##mkdir<br>
+##stat<br>
+##ls<br>
+##chmod<br>
+##exit<br>
