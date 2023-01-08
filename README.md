@@ -45,6 +45,7 @@ cat은 cat 명령 뒤에 파일 이름을 입력하면 그 파일의 내용을 �
 cd는 현재 작업중인 작업 디렉토리의 위치를 바꾸는 명령어입니다. 보통 cd [dir_name] 이나 cd 단독으로 사용됩니다.
 <br><br>
 테스트 결과:
+![slide2](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/cd.jpg?raw=true)
 
 <br><br>
 
@@ -52,19 +53,21 @@ cd는 현재 작업중인 작업 디렉토리의 위치를 바꾸는 명령어�
 cp는 파일을 복사하는 명령어입니다. 보통 cp [복사할 파일] [붙여 넣기할 파일]의 형태로 사용됩니다.
 <br><br>
 테스트 결과:
-
+![slide3](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/cp.jpg?raw=true)
 <br><br>
 
 ## pwd<br><br>
 pwd는 현재 작업이 진행되고 있는 파일의 디렉토리 경로를 출력하는 명령어입니다. 보통 pwd 단독으로 사용됩니다.
 <br><br>
 테스트 결과 :
+![slide4](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/pwd.jpg?raw=true)
 <br><br>
 
 ## rm<br><br>
 rm은 파일을 삭제하는 명령어입니다. 보통 rm [삭제할 파일]의 형태로 많이 사용됩니다.
 <br><br>
 테스트 결과:
+![slide5](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/rm.jpg?raw=true)
 <br><br>
 
 
@@ -72,34 +75,40 @@ rm은 파일을 삭제하는 명령어입니다. 보통 rm [삭제할 파일]의
 ln은 지정한 파일의 링크 파일을 만드는 명령어입니다. 프로젝트에선 하드 링크를 구현했으며 ln [원본 파일] [링크 파일]과 같은 형태로 구현했습니다.
 <br><br>
 테스트 결과:
+![slide6](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/ln.jpg?raw=true)
 <br><br>
 
 ## mkdir<br><br>
 mkdir은 디렉터리를 생성하는 명령어입니다. 보통 mkdir [dir_name]의 형식으로 사용됩니다.
 <br><br>
 테스트 결과:
+![slide7](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/mkdir.jpg?raw=true)
 <br><br>
 
 ## stat<br><br>
 stat은 티렉토리나 파일의 다양한 정보를 확인할 수 있는 명령어입니다. stat [파일,디렉토리]와 같은 형태로 사용되며 ls와 다르게 요약되지 않은 정보를 출력합니다.
 <br><br>
 테스트 결과:
+![slide8](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/stat.jpg?raw=true)
 <br><br>
 
 ## ls<br><br>
 ls는 작업 중인 디렉터리에 있는 디렉터리와 파일 등을 확인해 출력하는 명령어입니다. 보통 ls, ls –al의 형식으로 사용됩니다,
 <br><br>
 테스트 결과:
+![slide9](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/ls.jpg?raw=true)
 <br><br>
 
 ## chmod<br><br>
 chmod는 파일의 권한을 변경해주는 명령어입니다. chmod [바꾸고자 하는 권한] [파일이름]의 형태로 많이 사용됩니다.
 <br><br>
 테스트 결과:
+![slide10](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/chmod.jpg?raw=true)
 
 <br><br>
 ## exit<br><br>
 exit은 쉘이나 스크립트에서 사용되는 종료 명령어입니다. 보통 exit 단일로 사용됩니다.
 <br><br>
 테스트 결과:
+![slide11](https://github.com/LeeHyunHo270/ImageSave/blob/main/MiniShell/exit.jpg?raw=true)
 
