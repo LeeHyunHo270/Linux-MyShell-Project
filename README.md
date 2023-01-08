@@ -37,6 +37,8 @@ cat은 cat 명령 뒤에 파일 이름을 입력하면 그 파일의 내용을 �
 
 테스트 결과 :
 
+![slide1](https://user-images.githubusercontent.com/74617086/182412212-33e042d1-38ef-4ec4-a2c9-10a1332cfefa.JPG)
+
 <br><br>
 
 ## cd<br><br>
